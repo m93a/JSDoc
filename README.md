@@ -1,5 +1,5 @@
 # JSDoc
-
+![JSDOC](https://raw.github.com/m93a/JSDoc/master/logo.png)
 ## Do it JS way!
 
 ### Section 1 - Introduction
