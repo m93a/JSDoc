@@ -18,6 +18,8 @@ NOTE: In this documentation there is no difference between "element" and "node".
 #### JSDoc
 ```js
 var doc = {
+  "error": object //If there is an error, you can get more info here, else `doc.error={}`
+  
   "encoding": string, //This defines document encoding - has to be an ASCII string
   "language": [string, string, ...], //List of language codes, according to BCP 47 standard
   
